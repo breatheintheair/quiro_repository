@@ -728,7 +728,6 @@ li {
 }
 
 .footer {
-  background: #F9F1FE;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   -webkit-column-gap: 107px;
